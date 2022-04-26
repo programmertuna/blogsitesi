@@ -1,0 +1,97 @@
+.logo{
+    height: 40px;
+    
+}
+
+.ayrac{
+    font-size: 15px;
+    margin: 0px 10px;
+}
+
+.ust-kisim{
+
+    background-image: url(./resimler/blg.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.navbar{
+    
+    opacity: 90%;
+}
+.nav-item a{
+    
+    font-weight: bold;
+    
+}
+
+.nav-item a:hover{
+    color: orange;
+}
+.bosluk{
+    margin-top: 100px;
+    width: 300px;
+    
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+/* teklif */
+
+.teklif{
+    height: 70px;
+}
+.tirnak{
+    color: green;
+    font-size: 36px;
+    font-weight: bold;
+}
+.yazi{
+    font-size: 26px;
+}
+
+/* eğitimler */
+
+.eğitimler{
+    color: white;
+    background-color: green;
+}
+h2{
+    font-weight: bold;
+}
+
+.online{
+    
+        width: 150px;
+        height: 150px;
+ 
+}
+
+.video{
+    
+    width: 150px;
+    height: 150px;
+
+}
+.not{
+    width: 150px;
+    height: 150px;
+}
+.canli{
+    width: 150px;
+    height: 150px;
+}
+
+.stil{
+    color: rgb(67, 76, 207)
+}
+
+.elips{
+    width: 300px;
+
+}
+
